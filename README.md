@@ -1,4 +1,4 @@
-# Naan-Mudhalvan
+# Naan-Mudhalvan-Digital Marketing
 
 # Our NM project
 - PROJECT TITLE      : Creating a Blog Using WordPress Platform
